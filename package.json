@@ -34,7 +34,7 @@
     "@babel/register": "~7.9.0",
     "@types/jest": "^26.0.14",
     "@types/react": "^16.9.46",
-    "@types/react-dom": "^16.9.8",
+    "@types/react-dom": "^16.9.14",
     "babel-loader": "^8.0.6",
     "babel-plugin-import": "^1.13.0",
     "babel-plugin-lodash": "^3.3.4",
